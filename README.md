@@ -5,12 +5,12 @@ MiniTools\_vag
 Presentation
 ------------
 
-*miniTools\_vag* is the top-repo of the *MiniTools* ecosystem. It just points to other repositories.
+*miniTools\_vag* is the top-repo for hosting several tools like *vag* or *strof*. It just points to other repositories.
 
 Using [vag\_tools](https://www.npmjs.com/package/vag_tools), it clones the following repositories:
 
-- miniTools
-- create-miniTools
+- vag
+- strof\_mono
 - miniTools\_vag
 
 
