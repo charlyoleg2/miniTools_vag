@@ -1,0 +1,13 @@
+# miniTools_repos.yml
+
+repositories:
+  repos/miniTools:
+    type: git
+    url: git@github.com:MYNAME/miniTools.git
+    version: main
+  repos/create-miniTools:
+    url: git@github.com:MYNAME/create-miniTools.git
+    version: main
+  repos/miniTools_vag:
+    url: git@github.com:MYNAME/miniTools_vag.git
+    version: main
