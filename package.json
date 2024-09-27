@@ -5,10 +5,10 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MYNAME/miniTools_vag.git"
+		"url": "git+https://github.com/charlyoleg2/miniTools_vag.git"
 	},
-	"homepage": "https://github.com/MYNAME/miniTools_vag#readme",
-	"author": "MYNAME",
+	"homepage": "https://github.com/charlyoleg2/miniTools_vag#readme",
+	"author": "charlyoleg",
 	"license": "ISC",
 	"keywords": [
 		"miniTools",

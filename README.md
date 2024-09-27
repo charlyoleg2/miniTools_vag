@@ -18,7 +18,7 @@ Getting started
 ---------------
 
 ```bash
-git clone https://github.com/MYNAME/miniTools_vag
+git clone https://github.com/charlyoleg2/miniTools_vag
 cd miniTools_vag
 npm i
 npm run

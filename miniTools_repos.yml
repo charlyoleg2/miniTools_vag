@@ -1,13 +1,13 @@
 # miniTools_repos.yml
 
 repositories:
-  repos/miniTools:
+  repos/vag:
     type: git
-    url: git@github.com:MYNAME/miniTools.git
+    url: git@github.com:charlyoleg2/vag.git
     version: main
-  repos/create-miniTools:
-    url: git@github.com:MYNAME/create-miniTools.git
+  repos/strof_mono:
+    url: git@github.com:charlyoleg2/strof_mono.git
     version: main
   repos/miniTools_vag:
-    url: git@github.com:MYNAME/miniTools_vag.git
+    url: git@github.com:charlyoleg2/miniTools_vag.git
     version: main
