@@ -11,3 +11,6 @@ repositories:
   repos/miniTools_vag:
     url: git@github.com:charlyoleg2/miniTools_vag.git
     version: main
+  repos/dedale_mono:
+    url: git@github.com:charlyoleg2/dedale_mono.git
+    version: main
