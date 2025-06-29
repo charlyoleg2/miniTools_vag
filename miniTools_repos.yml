@@ -14,3 +14,6 @@ repositories:
   repos/dedale_mono:
     url: git@github.com:charlyoleg2/dedale_mono.git
     version: main
+  repos/feli_mono:
+    url: git@github.com:charlyoleg2/feli_mono.git
+    version: main
