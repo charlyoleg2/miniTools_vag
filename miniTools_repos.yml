@@ -17,3 +17,6 @@ repositories:
   repos/feli_mono:
     url: git@github.com:charlyoleg2/feli_mono.git
     version: main
+  repos/dust-mono:
+    url: git@github.com:charlyoleg2/dust-mono.git
+    version: main
